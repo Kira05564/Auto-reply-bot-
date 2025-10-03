@@ -14,3 +14,7 @@ services:
         value: 5b8f3b235407aea5242c04909e38d33d
       - key: OWNER_ID
         value: 8176816554
+      - key: CHANNEL_USERNAME
+        value: KIRA_BOTS
+      - key: SUPPORT_GROUP
+        value: https://t.me/+qf33ETc6YDplYzk1
