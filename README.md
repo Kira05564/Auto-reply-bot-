@@ -1,42 +1,23 @@
-# 🤖 UserBot Auto-Reply Manager
+🚀 AUTO REPLY BOT - DEPLOYMENT GUIDE
 
-A powerful Telegram UserBot that provides auto-reply functionality from your personal account.
+STEPS TO DEPLOY ON RENDER:
 
-## ✨ Features
-- 🔐 Secure login with phone number
-- 💬 Custom auto-reply messages
-- 🔗 Support for text and channel links
-- 📊 Status checking
-- 🛡️ 100% secure session management
+1. Create GitHub repository with all these files
+2. Go to render.com → New Web Service
+3. Connect your GitHub repo
+4. Choose "Python" environment
+5. Render automatically detect render.yaml
+6. Click Deploy
 
-## 🚀 Quick Start
+BOT WILL BE LIVE IN 2-3 MINUTES!
 
-### Setup Steps:
-1. Start the bot: `/start`
-2. Login: `/login` 
-3. Send your phone number
-4. Enter OTP code
-5. Set password (if any)
+FEATURES:
+✅ Force Subscribe to @KIRA_BOTS
+✅ 5 Users Limit
+✅ Auto Reply to DMs
+✅ All Commands: .setreply, .offreply, .check, .help
+✅ Zero Configuration Needed
 
-### UserBot Commands:
-- `.setreply [message]` - Set auto-reply text/link
-- `.offreply` - Turn off auto-reply
-- `.check` - Check current status  
-- `.help` - Support & guide
-
-## 📞 Support
-- **Support Group:** [Join Here](https://t.me/+GVdNrsS5BnphMjU1)
-- **Channel:** [KIRA BOTS](https://t.me/KIRA_BOTS)
-
-## 🔒 Privacy
-- Your data is encrypted and secure
-- No personal information stored
-- Sessions are protected
-
-## ⚡ Limits
-- Maximum 10 UserBots allowed
-- No message length limits
-- 24/7 active
-
----
-**Made with ❤️ by KIRA BOTS**
+SUPPORT:
+Channel: @KIRA_BOTS
+Group: https://t.me/+qf33ETc6YDplYzk1
