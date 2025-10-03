@@ -1,9 +1,1 @@
-services:
-  - type: web
-    name: userbot-manager
-    env: python
-    plan: free
-    region: oregon
-    pythonVersion: "3.10.0"  # Ye line confirm karo
-    buildCommand: pip install -r requirements.txt
-    startCommand: python bot.py
+
