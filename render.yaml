@@ -1,0 +1,16 @@
+services:
+  - type: web
+    name: userbot-manager
+    env: python
+    plan: free
+    region: oregon
+    pythonVersion: "3.10.0"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python bot.py
+    envVars:
+      - key: BOT_TOKEN
+        value: "8436214881:AAH-9tb2VtTW27a0qvEF779pGgnIviZrdnY"
+      - key: OWNER_ID
+        value: "8176816554"
+      - key: MONGO_URL
+        value: "mongodb+srv://light3:light3@light3.iayn85q.mongodb.net/?retryWrites=true&w=majority&appName=light3"
