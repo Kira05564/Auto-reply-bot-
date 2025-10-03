@@ -1,4 +1,4 @@
 pyrogram==2.0.106
 tgcrypto==1.2.5
 pymongo==4.5.0
-telethon==1.28.5
+telethon==1.28.0  # Older version use karo
